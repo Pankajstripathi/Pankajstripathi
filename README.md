@@ -38,7 +38,7 @@ AI-powered platform that analyzes and summarizes PDFs, contracts, Aadhaar, PAN, 
 https://github.com/ssingularitytech/Outriskai
 ---
 
-## 🟩 OUCaller – Smart Outbound Calling System
+## 🟩 OUTCaller – Smart Outbound Calling System
 
 - Next.js + FastAPI + Twilio Voice  
 - Real-time call logs, events, metrics  
