@@ -135,9 +135,7 @@ https://github.com/ssingularitytech/Outriskai
 
 # 📫 Connect With Me
 
-- 🟦 LinkedIn: *(Add your link)*  
-- 📧 Email: *(Your email)*  
-- 🐦 Twitter/X: *(optional)*  
+- 📧 Email: *Pankajtripathi0881@gmail.com*  
 
 ---
 
