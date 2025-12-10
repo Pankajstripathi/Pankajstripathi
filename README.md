@@ -110,10 +110,10 @@ https://github.com/ssingularitytech/Outriskai
 # 📦 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Pankajstripathi/OUCaller">
+  <a href="https://github.com/ssingularitytech/OutCaller">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pankajstripathi&repo=OUCaller&theme=radical" />
   </a>
-  <a href="https://github.com/Pankajstripathi/VectorAI">
+  <a href="https://github.com/ssingularitytech/OutriskAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pankajstripathi&repo=VectorAI&theme=radical" />
   </a>
 </p>
