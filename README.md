@@ -1,7 +1,7 @@
 # ⭐ Pankaj tripathi — Software Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=0E75B6&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+Full-Stack+Engineer+%7C+AI+%26+LLM+Integrations;Next.js+15+%7C+FastAPI+%7C+Prisma+%7C+Gemini+1.5+Flash;Building+AI+products+that+solve+real+problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=0E75B6&center=true&vCenter=true&width=750&lines=  Software+Developer+%7C+Full-Stack+Engineer+%7C+AI+%26+LLM+Integrations;Next.js+15+%7C+FastAPI+%7C+Prisma+%7C+Gemini+1.5+Flash;Building+AI+products+that+solve+real+problems" />
 </p>
 
 <p align="center">
