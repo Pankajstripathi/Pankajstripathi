@@ -1,4 +1,4 @@
-# ⭐ Pankaj Stripathi — Software Developer
+# ⭐ Pankaj tripathi — Software Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=0E75B6&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+Full-Stack+Engineer+%7C+AI+%26+LLM+Integrations;Next.js+15+%7C+FastAPI+%7C+Prisma+%7C+Gemini+1.5+Flash;Building+AI+products+that+solve+real+problems" />
@@ -122,14 +122,14 @@ https://github.com/ssingularitytech/Outriskai
 
 # 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pankajstripathi&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajstripathi&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajstripathi&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
