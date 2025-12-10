@@ -35,7 +35,7 @@ AI-powered platform that analyzes and summarizes PDFs, contracts, Aadhaar, PAN, 
 - NextAuth (Email, Credentials, Google, Guest)
 
 🔗 **Private repo**
-
+https://github.com/ssingularitytech/Outriskai
 ---
 
 ## 🟩 OUCaller – Smart Outbound Calling System
@@ -46,7 +46,7 @@ AI-powered platform that analyzes and summarizes PDFs, contracts, Aadhaar, PAN, 
 - Invite + member management  
 - Complete communication dashboard
 
-🔗 https://github.com/Pankajstripathi/OUCaller
+🔗https://github.com/ssingularitytech/OutCaller
 
 ---
 
@@ -57,7 +57,6 @@ AI-powered platform that analyzes and summarizes PDFs, contracts, Aadhaar, PAN, 
 - Used inside OutRiskAI for contract lookup  
 - FastAPI backend with modular architecture
 
-🔗 https://github.com/Pankajstripathi/VectorAI
 
 ---
 
