@@ -91,7 +91,7 @@ https://github.com/ssingularitytech/Outriskai
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ## AI / LLM
-![Gemini](https://img.shields.io/badge/Gemini%201.5%20Flash-4285F4?logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%202.5%20Flash-4285F4?logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
 ## Databases
