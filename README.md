@@ -12,7 +12,7 @@
 
 ## 👋 Hi, I'm Pankaj
 
-I'm a **software developer** with a background in **BSc IT**, passionate about building real-world products using **Next.js, FastAPI, Prisma, AI/LLM systems, Docker**, and clean development practices.
+I'm a **software developer**, passionate about building real-world products using **Next.js, FastAPI, Prisma, AI/LLM systems, Docker**, and clean development practices.
 
 I enjoy transforming ideas into **scalable, intelligent, user-friendly systems**, especially in the legal-tech, communication, and AI-driven automation space.
 
